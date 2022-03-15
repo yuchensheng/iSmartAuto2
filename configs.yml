@@ -4,8 +4,8 @@ browser:
 
 # 用户配置（务必保持账号密码与 iSmart 中已登录的相同）
 user:
-  username: <用户名> # 用户名/手机号
-  password: <密码> # 密码
+  username: 18684658973 # 用户名/手机号
+  password: 11020419Xzd # 密码
 
 # 答题配置
 paper:
